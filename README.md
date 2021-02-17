@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/diptendunandi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="diptendunandi" height="30" width="40" /></a>
+<a href="https://twitter.com/diptenduN" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="diptendunandi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/diptendunandi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="diptendunandi" height="30" width="40" /></a>
 <a href="https://instagram.com/diptendunandi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="diptendunandi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/diptendunandi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="diptendunandi" height="30" width="40" /></a>
