@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactsJs,NodeJs and MongoDB**
 
-- 💬 Ask me about **HTML,CSS,Bootstrap,C++,C and Materialize**
+- 💬 Ask me about **HTML,CSS,JavaScript,jQuery,Bootstrap,C++,C and Materialize**
 
 - 📫 How to reach me **diptendu.nandi1999@gmail.com**
 
