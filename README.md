@@ -10,38 +10,23 @@
 ---
 
 ## 👨‍💻 About Me
-- 💻 **2+ years of professional experience** in high-performance C++ development on Linux  
+- 💻 **2+ years experience** in high-performance C++ development on Linux systems  
 - 🌱 Currently exploring **Advanced C++, Microcontrollers, Robotics & Real-Time Systems**  
-- 🛠️ Skilled in **C++, C, Python, Multi-threading, Design Patterns, Modern C++ (14/17/23), Linux System Programming**  
+- 🛠️ Strong skills in **C++, C, Python, Multi-threading, Design Patterns, Modern C++ (14/17/23), and Linux System Programming**  
 - ⚡ Fun fact: **Coffee fuels my coding ☕**
 
 ---
 
-## 🛠️ My Skills
+## 🛠️ Tech Stack
 
-<p align="left">
-  <b>C++</b> <br>
-  <img src="https://progress-bar.dev/95/?title=C%2B%2B" alt="C++"/>
-</p>
-<p align="left">
-  <b>C</b> <br>
-  <img src="https://progress-bar.dev/90/?title=C" alt="C"/>
-</p>
-<p align="left">
-  <b>Python</b> <br>
-  <img src="https://progress-bar.dev/85/?title=Python" alt="Python"/>
-</p>
-<p align="left">
-  <b>Linux</b> <br>
-  <img src="https://progress-bar.dev/90/?title=Linux" alt="Linux"/>
-</p>
-<p align="left">
-  <b>Multi-threading & Concurrency</b> <br>
-  <img src="https://progress-bar.dev/80/?title=Multi-threading" alt="Multi-threading"/>
-</p>
-<p align="left">
-  <b>Design Patterns & OOP</b> <br>
-  <img src="https://progress-bar.dev/85/?title=Design%20Patterns" alt="Design Patterns"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="50" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="50" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" width="50" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="50" width="50" title="CMake"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="50" title="MySQL"/>
 </p>
 
 ---
@@ -50,15 +35,12 @@
 
 <div align="center">
 
-<a href="https://github.com/diptendunandi/Real_Time_Stock_Stimulator" target="_blank">
-<img src="https://img.shields.io/badge/Real--Time%20Stock%20Simulator-blue?style=for-the-badge" alt="Real-Time Stock Simulator"/>
-</a>  
+[![Real-Time Stock Simulator](https://img.shields.io/badge/Real--Time%20Stock%20Simulator-blue?style=for-the-badge)](https://github.com/diptendunandi/Real_Time_Stock_Stimulator)
+**Real-Time Stock Simulator & Alert Engine**  
 *End-to-end real-time stock alert system simulating low-latency event processing and threshold-based alerts.*  
 **Tech:** C++23, Multi-threading, Lock-Free Programming, Linux  
 
-<a href="https://github.com/diptendunandi" target="_blank">
-<img src="https://img.shields.io/badge/Open%20Source-Contributions-orange?style=for-the-badge" alt="Open Source Contributions"/>
-</a>  
+[![Open Source Contributions](https://img.shields.io/badge/Open%20Source-Contributions-orange?style=for-the-badge)](https://github.com/diptendunandi)  
 *Actively contributing to open-source C++ projects, optimizing performance and adding new features.*  
 **Tech:** C++, Linux, Git
 
@@ -66,24 +48,11 @@
 
 ---
 
-## 🏆 Experience & Education
-
-**💼 Associate Software Engineer | GlobalLogic India**  
-*Mar 2024 – Present | Pune, India*  
-- Developed C++ firmware for Linux-based devices  
-- Debugged complex issues using GDB & core dumps, improving stability by 25%  
-- Managed production fixes using Git & JIRA  
-
-**🎓 B.Tech in Computer Science & Engineering | Graphic Era Deemed University**  
-*Aug 2019 – July 2023 | CGPA: 9.05/10*
-
----
-
 ## 📊 GitHub Stats & Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diptendunandi&show_icons=true&theme=radical" width="45%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diptendunandi&layout=compact&theme=radical" width="45%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=diptendunandi&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diptendunandi&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
 </p>
 
 ---
@@ -106,5 +75,4 @@
 ---
 
 ## ⚡ Fun Fact
-> Coffee is my coding fuel ☕, and I love optimizing algorithms while sipping hot espresso.  
-> Real-time systems + caffeine = happiness 🚀
+> Coffee is my coding fuel ☕ and I love optimizing algorithms while sipping hot espresso.
