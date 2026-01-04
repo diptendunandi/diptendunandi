@@ -1,40 +1,110 @@
-<h1 align="center">Hi 👋, I'm @diptendunandi</h1>
-<h3 align="center">A passoniate Open Souce Contributer from India</h3>
+<h1 align="center">Hi 👋, I'm Diptendu Nandi</h1>
+<h3 align="center">C++ Developer | Linux Systems Programmer | Open Source Contributor</h3>
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diptendunandi" alt="diptendunandi" /></a> </p>
-
-- 🌱 I’m currently learning **ReactsJs,NodeJs and MongoDB**
-
-- 💬 Ask me about **HTML,CSS,JavaScript,jQuery,Bootstrap,C++,C and Materialize**
-
-- 📫 How to reach me **diptendu.nandi1999@gmail.com**
-
-- ⚡ Fun fact **I like my hot coffee more than anything in this world.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/diptendunandi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="diptendunandi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/diptendunandi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="diptendunandi" height="30" width="40" /></a>
-<a href="https://instagram.com/diptendunandi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="diptendunandi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/diptendunandi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="diptendunandi" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/diptendunandi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/diptendunandi" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://instagram.com/igdiptendunandi" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diptendunandi&show_icons=true&locale=en&layout=compact" alt="diptendunandi" /></p>
+## 👨‍💻 About Me
+- 💻 **2+ years of professional experience** in high-performance C++ development on Linux  
+- 🌱 Currently exploring **Advanced C++, Microcontrollers, Robotics & Real-Time Systems**  
+- 🛠️ Skilled in **C++, C, Python, Multi-threading, Design Patterns, Modern C++ (14/17/23), Linux System Programming**  
+- ⚡ Fun fact: **Coffee fuels my coding ☕**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diptendunandi&show_icons=true&locale=en" alt="diptendunandi" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diptendunandi&" alt="diptendunandi" /></p>
+## 🛠️ My Skills
 
+<p align="left">
+  <b>C++</b> <br>
+  <img src="https://progress-bar.dev/95/?title=C%2B%2B" alt="C++"/>
+</p>
+<p align="left">
+  <b>C</b> <br>
+  <img src="https://progress-bar.dev/90/?title=C" alt="C"/>
+</p>
+<p align="left">
+  <b>Python</b> <br>
+  <img src="https://progress-bar.dev/85/?title=Python" alt="Python"/>
+</p>
+<p align="left">
+  <b>Linux</b> <br>
+  <img src="https://progress-bar.dev/90/?title=Linux" alt="Linux"/>
+</p>
+<p align="left">
+  <b>Multi-threading & Concurrency</b> <br>
+  <img src="https://progress-bar.dev/80/?title=Multi-threading" alt="Multi-threading"/>
+</p>
+<p align="left">
+  <b>Design Patterns & OOP</b> <br>
+  <img src="https://progress-bar.dev/85/?title=Design%20Patterns" alt="Design Patterns"/>
+</p>
 
+---
 
+## 🚀 Featured Projects
 
+<div align="center">
 
-<!---
-diptendunandi/diptendunandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/diptendunandi/Real_Time_Stock_Stimulator" target="_blank">
+<img src="https://img.shields.io/badge/Real--Time%20Stock%20Simulator-blue?style=for-the-badge" alt="Real-Time Stock Simulator"/>
+</a>  
+*End-to-end real-time stock alert system simulating low-latency event processing and threshold-based alerts.*  
+**Tech:** C++23, Multi-threading, Lock-Free Programming, Linux  
+
+<a href="https://github.com/diptendunandi" target="_blank">
+<img src="https://img.shields.io/badge/Open%20Source-Contributions-orange?style=for-the-badge" alt="Open Source Contributions"/>
+</a>  
+*Actively contributing to open-source C++ projects, optimizing performance and adding new features.*  
+**Tech:** C++, Linux, Git
+
+</div>
+
+---
+
+## 🏆 Experience & Education
+
+**💼 Associate Software Engineer | GlobalLogic India**  
+*Mar 2024 – Present | Pune, India*  
+- Developed C++ firmware for Linux-based devices  
+- Debugged complex issues using GDB & core dumps, improving stability by 25%  
+- Managed production fixes using Git & JIRA  
+
+**🎓 B.Tech in Computer Science & Engineering | Graphic Era Deemed University**  
+*Aug 2019 – July 2023 | CGPA: 9.05/10*
+
+---
+
+## 📊 GitHub Stats & Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diptendunandi&show_icons=true&theme=radical" width="45%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diptendunandi&layout=compact&theme=radical" width="45%" alt="Top Languages"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diptendunandi&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:diptendu.nandi2008@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/diptendunandi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/diptendunandi" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+> Coffee is my coding fuel ☕, and I love optimizing algorithms while sipping hot espresso.  
+> Real-time systems + caffeine = happiness 🚀
