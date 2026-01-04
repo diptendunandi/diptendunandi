@@ -48,21 +48,6 @@
 
 ---
 
-## 📊 GitHub Stats & Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diptendunandi&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diptendunandi&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diptendunandi&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
 
 ## 📫 Contact Me
 
