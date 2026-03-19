@@ -10,7 +10,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 💻 **2+ years experience** in high-performance C++ development on Linux systems  
+- 💻 **2.5 years experience** in high-performance C++ development on Linux systems  
 - 🌱 Currently exploring **Advanced C++, Microcontrollers, Robotics & Real-Time Systems**  
 - 🛠️ Strong skills in **C++, C, Python, Multi-threading, Design Patterns, Modern C++ (14/17/23), and Linux System Programming**  
 - ⚡ Fun fact: **Coffee fuels my coding ☕**
