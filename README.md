@@ -60,4 +60,4 @@
 ---
 
 ## ⚡ Fun Fact
-> Coffee is my coding fuel ☕ and I love optimizing algorithms while sipping hot espresso.
+> Coffee is my coding fuel ☕ and I love optimizing algorithms while sipping hot cappuccino.
